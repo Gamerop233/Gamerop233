@@ -1,4 +1,4 @@
-![image](https://github.com/RuisuCode/ruisucode/assets/143910235/70fd94db-abeb-438b-87d4-ca7c68dd1b81)![image](https://github.com/RuisuCode/ruisucode/assets/143910235/4460cec9-a0d3-4ff9-addb-3fc4d7a67933)<h1 align="center">Hi how are things?🥑. Enjoy my content😋</h1>
+<h1 align="center">Hi how are things?🥑. Enjoy my content😋</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I have 2 years of experience...<br>🎯 I worked on 2 big projects ...<br>🎲 Fun fact: I am extroverted and introverted at the same time.... <br>
-<img src="https://github.com/RuisuCode/ruisucode/assets/143910235/4460cec9-a0d3-4ff9-addb-3fc4d7a67933" height="10"   /> I am Venezuelan
+<img src="https://github.com/RuisuCode/ruisucode/assets/143910235/4460cec9-a0d3-4ff9-addb-3fc4d7a67933" height="25"   /> I am Venezuelan
 </p>
 
 ###
