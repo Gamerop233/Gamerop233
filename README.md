@@ -43,3 +43,7 @@
 </div>
 
 ###
+
+<h2 align="left">Soon, new personal projects....</h2>
+
+###
